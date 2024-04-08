@@ -21,7 +21,7 @@ repository               : "gauravsangwan/gauravsangwan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "blackandwhite.jpeg"
+  avatar           : "gaurav_background.png"
   name             : "Gaurav Sangwan"
   pronouns         : # example: "she/her"  
   bio              : "Computer Vision and Quantitative Finance Researcher"
