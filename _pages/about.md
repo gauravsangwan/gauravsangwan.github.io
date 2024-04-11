@@ -7,27 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I'm a final year undergraduate student at the Indian Institute of Technology, Jodhpur. My major is Artificial Intelligence and Data Science. 
+Hi there! I am **Gaurav Sangwan**, a <u>final year undergraduate</u> student majoring in <u>Artificial Intelligence and Data Science</u> at the Indian Institute of Technology, Jodhpur, I have developed a strong passion for **cutting-edge research and quantitative finance**.
 
-🔬 My research interests are in Secure and Accelarated Computer Vision Hardware design and Quantitative Finance Research. 
+My research interests lie at the intersection of **computer vision**, **hardware acceleration**, and **quantitative trading strategies**. I have published a peer-reviewed [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26942) at the prestigious AAAI Conference on Artificial Intelligence and have two more upcoming publications in top-tier venues. My recent work has focused on developing secure and efficient hardware accelerators for vision transformers as well as exploring advanced signal combination techniques for enhancing the robustness of quantitative trading models.
 
-📚 As of now, I have one published research work and two upcoming research works. 
+Beyond academics, I have gained valuable industry experience through roles as a **Research Consultant** at <u>WorldQuant Brain</u> and a **Part-Time Software Engineer** at <u>Scale AI</u>. At WorldQuant, I implemented cross-sectional, seasonal-momentum strategies in the US and Chinese markets, achieving impressive Sharpe ratios. At Scale AI, I worked on optimizing and testing AI algorithms for large language models used in data tasks, while also serving as a diligent code reviewer.
 
-# Selected Experience
+I am **actively seeking opportunities** to further my passion for **quantitative research and quant trading**. I am driven by a constant desire to push the boundaries of what is possible through rigorous research and principled quantitative approaches. With a strong foundation in machine learning, econometrics, and mathematical modeling, I am well-equipped to tackle complex problems and deliver impactful solutions. I am excited to continue my journey as an aspiring researcher and quant strategist, contributing to the advancement of these dynamic fields.
 
-## 🤖 Open Source Contributions
-
-I have published a [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26942) at the 2023 Proceedings of the AAAI Conference on Artificial Intelligence (student abstract)
-
-Moreover, I have submitted few more papers in top-tier conferences and journals which are expected to be published soon. 
-
-<!-- ## 📜 Reimplementing and Reproducing Papers
-I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
-
-To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.
-
-Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/). -->
-
-## 👨🏻‍🔬 Professional Experience
-Currently I am working as a **Student Researcher** in Department of Computer Science and Engineering under the supervision of Prof. Dr. Palash Das on **Secure and Accelearted hardware for Vision Transformers**.
-Additionally, I have professional experience working as **Research Consultant** at WorldQuant Brain, in which I created mathematical models called alphas. I have also worked as **Software Engineering Intern** at ScaleAI as a part of their Bulba ICE Project. 
+If you have any exciting quantitative research or quant trading roles available, I would be thrilled to discuss how my skills and experience could be a valuable addition to your team. Please feel free to reach out to me at [gaurav.sangs@proton.me](mailto:gaurav.sangs@proton.me) or [sangwan.2@iitj.ac.in](mailto:sangwan.2@iitj.ac.in). 
