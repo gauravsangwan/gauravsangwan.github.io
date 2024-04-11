@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+![ART](/images/about.png){: .align-right width="300px"}
 Hi there! I am **Gaurav Sangwan**, a <u>final year undergraduate</u> student majoring in <u>Artificial Intelligence and Data Science</u> at the Indian Institute of Technology, Jodhpur, I have developed a strong passion for **cutting-edge research and quantitative finance**.
 
 My research interests lie at the intersection of **computer vision**, **hardware acceleration**, and **quantitative trading strategies**. I have published a peer-reviewed [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26942) at the prestigious AAAI Conference on Artificial Intelligence and have two more upcoming publications in top-tier venues. My recent work has focused on developing secure and efficient hardware accelerators for vision transformers as well as exploring advanced signal combination techniques for enhancing the robustness of quantitative trading models.
