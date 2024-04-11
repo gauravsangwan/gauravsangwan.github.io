@@ -11,7 +11,7 @@ redirect_from:
 
 **EDUCATION**
 
-**B.Tech in Artificial Intelligence and Data Science, IIT, Jodhpur |** Nov 2020 – May 2024 | 3.1 GPA
+**B.Tech in Artificial Intelligence and Data Science, IIT, Jodhpur** | Nov 2020 – May 2024 | 3.1 GPA
 
 JEE Advanced: 107; JEE Mains: 99.52 %ile (4357); XII Boards: 91(P) 95(C) 84(M) 98(CS) 84(E); X Boards: 10 CGPA
 
@@ -54,7 +54,7 @@ JEE Advanced: 107; JEE Mains: 99.52 %ile (4357); XII Boards: 91(P) 95(C) 84(M) 9
 - Researched a cross-sectional, long-short seasonal-momentum strategy in crypto with a back tested Sharpe of 0.8 and an information ratio of 0.7 after accounting for fees, commissions and expected slippage. Researched a reversal strategy based on "group-pairs" and residual returns from a multivariate regression
 - Combined all of the strategies based on their volatilises to generate a combined strategy with a back tested SR of 1.6+ and IR of 0.9.
 
-**Deep Learning Statistical Arbitrage(**[**Link**](https://arxiv.org/pdf/2106.04028.pdf)**)**
+**Deep Learning Statistical Arbitrage([**Link**](https://arxiv.org/pdf/2106.04028.pdf))**
 
 - Replicated and applied a statistical arbitrage framework to cryptocurrency markets, leveraging residual portfolios from conditional latent asset pricing factors to construct arbitrage portfolios. Implemented optimal trading policies based on these signals, achieving steadily high out-of-sample mean returns of 8.2% and Sharpe ratios exceeding 1.5, and lowered the transaction costs by 17%.
 
