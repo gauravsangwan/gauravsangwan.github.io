@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Statistical Arbitrage for Crypto Currencies"
+excerpt: "Quantitative research self-project exploiting momentum and reversal strategies for arbitrage.<br/><img src='/images/statarb.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- Researched a cross-sectional, long-short seasonal-momentum strategy in crypto with a back tested Sharpe of 0.8
+and an information ratio of 0.7 after accounting for fees, commissions and expected slippage.
+- Additionally, researched a Reversal strategy based on Multivariate regression between the assets and formed a
+return stream for each asset regressed on every other.
+- Combined all of the strategies based on their volatilities to generate a combined strategy with a back tested SR of
+1.6+ and IR of 0.9.
