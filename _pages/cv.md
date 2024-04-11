@@ -7,10 +7,7 @@ redirect_from:
   - /resume
 ---
 
-
-**Gaurav Sangwan**
-
-+91-8708030384 | [sangwan.2@iitj.ac.in](mailto:sangwan.2@iitj.ac.in) | [gaurav.sangs@proton.me](mailto:gaurav.sangs@proton.me) | [Website Portfolio](http://gauravsangwan.github.io/)
+[**PDF Version**](/files/Resume.pdf)
 
 **EDUCATION**
 
