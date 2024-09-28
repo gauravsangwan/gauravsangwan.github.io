@@ -30,4 +30,4 @@ I have done **various research internships**, including a remote position with *
 
 Additionally, my recent work at **Thynaa Healthy Naturally** (2023) as **Data-Scientist** I designed and implemented an advanced federated learning-based framework for IoT applications, optimizing plant disease detection and fruit ripeness prediction with decentralized data processing for over 50k images everyday , demonstrating my ability to apply theoretical knowledge to practical, industry-specific challenges. 
 
-Through this website, I invite you to explore my research projects, publications, and insights into the evolving landscape of quantitative finance and artificial intelligence. I welcome opportunities for collaboration and intellectual discourse in these exciting fields.
+Through this website, I invite you to explore my [research projects](https://gauravsangwan.github.io/portfolio/), [publications](https://gauravsangwan.github.io/publications/), and insights into the evolving landscape of quantitative finance and artificial intelligence. I welcome opportunities for collaboration and intellectual discourse in these exciting fields.
