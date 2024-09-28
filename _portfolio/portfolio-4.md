@@ -1,17 +1,19 @@
 ---
-title: "SIFTastic: Unveiling Reality"
-excerpt: "SIFT Applications for Visual Classification, Adversarial Detection, 3D Reconstruction, and Fingerprint Matching"
+title: "IMC Prosperity 2024"
+excerpt: "This have the code and resources for my innovative approach aimed at optimizing investment strategies and enhancing financial decision-making, which helped me secure a rank of 645 out of 10100, despite a faulty submission during round 2. "
 collection: portfolio
 ---
 
-Course project for **CSL7360 Computer Vision Course**
+This attached Repository contains my submission code for IMC Prosperity 2024. 
+[**Github Repository**](https://github.com/gauravsangwan/IMC-Prosperity_2024)
 
-## This project is based on SIFT and how it can be used in multiple ways. Main Target problems are
 
-- **SIFT for visual classification** : Using bag of visual words classfication technique
-- **SIFT for adversarial Detection** : Using SIFT to detect if the input image is adversarially attacked or not.
-- **3D Reconstruction and Localization** of monuments using uncaliberated stereo and image localization of the same monuments using their 3d reconstruction on any new image.
-- **SIFT for Fingerprint matching**
-- **SIFT for live webcam matching**
+My Results were as follows: 
 
-[**Github codebase**](https://github.com/gauravsangwan/SIFTastic)
+| **Round** | **Overall PnL** | **Round PnL`** | **Position** |
+|-----------|-----------------|----------------|--------------|
+| **1**     | 131230          | 131230         | 345          |
+| **2**     | -310,594        | -179,365       | 2876         |
+| **3**     | -79303          | 100062         | 3118         |
+| **4**     | 273922          | 353226         | 1127         |
+| **5**     | 483410          | 209488         | 645          |
