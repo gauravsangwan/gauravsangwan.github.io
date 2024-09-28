@@ -1,15 +1,18 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+To download the complete CV, please click the link below. This document provides a comprehensive overview of my academic background, professional experience, skills, and achievements. It also includes relevant projects, certifications, and publications that highlight my qualifications and expertise. Feel free to review it for more detailed information about my career trajectory and capabilities.
+
+
 [**PDF Version**](/files/Resume.pdf)
 
-**EDUCATION**
+<!-- **EDUCATION**
 
 **B.Tech in Artificial Intelligence and Data Science, IIT, Jodhpur** | Nov 2020 – May 2024 | 3.1 GPA
 
@@ -63,4 +66,4 @@ JEE Advanced: 107; JEE Mains: 99.52 %ile (4357); XII Boards: 91(P) 95(C) 84(M) 9
 **CERTIFICATES**
 
 - NVIDIA DLI – Fundamentals of Accelerated Computing with CUDA C/C++ – Licensed January 22,2022 – ([Link](https://courses.nvidia.com/certificates/a7cf3900117f4c8184075c92d5018b67/))
-- Forage – JPMorgan Chase & Co. - Quantitative Research Job Simulation – Licensed December 16, 2023 - ([Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._ctejJSfrjEGZwjowy_1702729949718_completion_certificate.pdf))
+- Forage – JPMorgan Chase & Co. - Quantitative Research Job Simulation – Licensed December 16, 2023 - ([Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._ctejJSfrjEGZwjowy_1702729949718_completion_certificate.pdf)) -->
