@@ -10,7 +10,13 @@ redirect_from:
 To download the complete CV, please click the link below. This document provides a comprehensive overview of my academic background, professional experience, skills, and achievements. It also includes relevant projects, certifications, and publications that highlight my qualifications and expertise. Feel free to review it for more detailed information about my career trajectory and capabilities.
 
 
+## Quantitative Finance Resume
+
 [**PDF Version**](/files/Resume.pdf)
+
+## Data Science Resume
+
+[**PDF Version**](/files/Research_resume.pdf)
 
 <!-- **EDUCATION**
 
